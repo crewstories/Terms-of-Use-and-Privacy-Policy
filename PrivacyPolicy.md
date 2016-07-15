@@ -1,190 +1,110 @@
-Terms of Service
+Privacy Policy
 
-Effective: July 1, 2016
+Last Modified: July 14th, 2016
 
-These Terms of Service ("Terms") govern our relationship with you. Although we have tried our best to strip the “legalese” from the Terms, there are places where these Terms may still read like a traditional contract. This is because these Terms do indeed form a legally binding contract between you and Crew Media, Inc (“Crew”). Please read the Terms carefully.
+When you use views’s services, you’ll inevitably share some information with us. That’s why we’ve written this privacy policy. This policy covers the information we collect, how we use it, whom we share it with, and the choices we give you to control, access, and update your information. If you still have questions about anything in our privacy policy, please contact us at contact@crewmoments.com.
 
-We will refer to all of our products and services as the "Services."
+Information We Collect
+There are three basic ways we collect information:
+•	Information you choose to give us.
+•	Information we get when you use our services.
+•	Information we get from third parties.
 
-By using the Services, you agree to the Terms. If you do not agree with the Terms, then do not use the Services.
+Here’s a little more detail on each of these categories.
 
-1. Who Can Use the Services
-No one under 13 is allowed to create an account or use the Services. We may offer additional Services with additional terms that may require you to be even older to use them. 
+Information You Choose to Give Us
 
-By using the Services, you state that:
-	•	You can form a binding contract with Crew;
-	•	You are not a person who is barred from receiving the Services under the laws of the United States or any other applicable jurisdiction–meaning that you do not appear on the U.S. Treasury Department's list of Specially Designated Nationals or face any other similar prohibition; and
-	•	You will comply with these Terms and all applicable local, state, national, and international laws, rules, and regulations.
+When you interact with our services, we collect the information that you choose to share with us. For example, most of our services require you to set up a basic Views account, so we need to collect a few important details about you, such as: a unique username you’d like to go by, a password, an email address, a phone number, and your date of birth. To make it easier for others to find you, we may also ask you to provide us with some additional information that will be publicly visible on our services, such as profile pictures, a name, or other useful identifying information. Other services, such as commerce products, may also require you to provide us with a debit or credit card number and its associated account information.
 
-If you are using the Services on behalf of a business or some other entity, you state that you are authorized to grant all licenses set forth in these Terms and to agree to these Terms on behalf of the business or entity. 
+Of course, you’ll also provide us whatever information you send through the services, such as Moments and Comments to your friends. Keep in mind that the users you send Moments, Comments, and any other content to can always save that content or copy it outside the app. Don’t send messages or share content that you wouldn’t want someone to save or share.
 
-2. Rights We Grant You
-Crew grants you a personal, worldwide, royalty-free, non-assignable, nonexclusive, revocable, and non-sublicensable license to access and use the Services. This license is for the sole purpose of letting you use and enjoy the Service's benefits in a way that these Terms and our usage policies allow.
+When you contact Views Support or communicate with us in any other way, we’ll collect whatever information you volunteer.
 
-Any software that we provide you may automatically download and install upgrades, updates, or other new features. You may be able to adjust these automatic downloads through your device's settings.
+Information We Get When You Use Our Services
+When you use our services, we collect information about which of those services you’ve used and how you’ve used them. Here’s a fuller explanation of the types of information we collect when you use our services:
+			Usage Information. We collect information about your activity through our services. For example, we may collect information about:
+			how you interact with the services or which search queries you submit.
+			how you communicate with other views members, such as their names, the time and date of your communications, the number of messages you exchange with your friends, which friends you exchange messages with the most, and your interactions with messages (such as when you open a message or capture a screenshot).
+			Content Information. We collect information about the content you provide, such as if the recipient has viewed the content, replayed the content, and the metadata that is provided with the content.
+			Device Information. We collect device-specific information, such as the hardware model, operating system version, advertising identifier, unique application identifiers, unique device identifiers, browser type, language, wireless network, and mobile network information (including the mobile phone number).
+			Device Phonebook. Because Views is all about communicating with friends, we may—with your consent—collect information from your device’s phonebook.
+			Camera and Photos. Many of our services require us to collect images and other information from your device’s camera and photos. We’ll access your camera and photos only after you give us your consent.
+			Location Information. When you use our services we may collect information about your location. With your consent, we may also collect information about your precise location using methods that include GPS, wireless networks, cell towers, Wi-Fi access points, and other sensors, such as gyroscopes, accelerometers, and compasses.
+			Information Collected by Cookies and Other Technologies. Like most online services and mobile applications, we may use cookies and other technologies, such as web beacons, web storage, and unique advertising identifiers, to collect information about your activity, browser, and device. We may also use these technologies to collect information when you interact with services we offer through one of our partners, such as commerce features. Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our services. 
+			Log Information. We also collect log information when you use our website. That information includes, among other things:
+			details about how you’ve used our services
+			device information, such as your web browser type and language
+			access times
+			pages viewed
+			IP address
+			identifiers associated with cookies or other technologies that may uniquely identify your device or browser
+			pages you visited before or after navigating to our website.
+	
+Information We Collect from Third Parties
+We may collect information that other users provide about you when they use our services. For example, if another user allows us to collect information from their device phonebook—and you’re one of that user’s contacts—we may combine the information we collect from that user’s phonebook with other information we have collected about you. We may also obtain information from other companies that are owned or operated by us, or any other third-party sources, and combine that with the information we collect through our services.
 
-You may not copy, modify, distribute, sell, or lease any part of our Services, nor may you reverse engineer or attempt to extract the source code of that software, unless applicable laws prohibit these restrictions or you have our written permission to do so.
+How We Use Information
+What do we do with the information we collect? The short answer is: Provide you with an amazing set of products and services that we relentlessly improve. But we do a lot more as well, such as:
+			develop, operate, improve, deliver, maintain, and protect our products and services
+			communicate with you
+			monitor and analyze trends and usage
+			personalize the services by, among other things, suggesting friends or profile information, or customizing the content we show you, including ads
+			enhance the safety and security of our products and services
+			verify your identity and prevent fraud or other unauthorized or illegal activity
+			use information we’ve collected from cookies and other technology to enhance the services and your experience with them
+			enforce our Terms of Service and other usage polices
+We may also store some information locally on your device. For example, we may store information as local cache so that you can open the app and view content faster.
 
-3. Rights You Grant Us
-Many of our Services let you create, upload, post, send, receive, and store content. When you do that, you retain whatever ownership rights in that content you had to begin with. But you grant us a license to use that content. How broad that license is depends on which Services you use and the Settings you have selected.
+How We Share Information
+We may share information about you in the following ways:
+			With other Views members. We may share the following information with other Views members:
+			information about you, such as your username and name;
+			information about how you have interacted with the services, the names of members you are friends with, and other information that will help members understand your connections with others using the services. For example, because it may not be clear whether a new friend request comes from someone you actually know, we may share whether you and the requestor have Views friends in common;
+			any additional information you have consented for us to share. For example, when you let us access your device phonebook, we may share information about you with other users who have your phone number in their device phonebook; and
+			content you post or send will be shared with other Views members; how widely your content is shared depends on your personal settings and the type of service you are using.
+			With all Views members and the general public. We may share the following information with all Views members as well as the general public:
+			public information like your profile pictures; and
+			any content that you submit. If a service is streamed on the web or broadcast in some other media, it may be viewed by the public at large.
+			With our affiliates. We may share information with entities within the Views family of companies.
+			With third parties. We may share your information with the following third parties:
+			With service providers, sellers, and partners. We may share information about you with service providers who perform services on our behalf, sellers that provide goods through our services, and business partners that provide services and functionality.
+			With third parties for legal reasons. We may share information about you if we reasonably believe that disclosing the information is needed to:
+			comply with any valid legal process, government request, or applicable law, rule, or regulation;
+			investigate, remedy, or enforce potential Terms of Service violations;
+			protect the rights, property, and safety of us, our users, or others; or
+			detect and resolve any fraud or security concerns.
+			With third parties as part of a merger or acquisition. If Views gets involved in a merger, asset sale, financing, liquidation or bankruptcy, or acquisition of all or some portion of our business to another company, we may share your information with that company before and after the transaction closes.
+			In the aggregate or after de-identification. We may also share with third parties, such as advertisers, aggregated or de-identified information that cannot reasonably be used to identify you.
+	
+Information You Choose to Share with Third Parties
+The services may also contain third-party links and search results, include third-party integrations, or be a co-branded or third-party-branded service that’s being provided jointly with or by another company. By going to those links, using the third-party integration, or using a co-branded or third-party-branded service, you may be providing information (including personal information) directly to the third party, us, or both. You acknowledge and agree that we are not responsible for how those third parties collect or use your information. As always, we encourage you to review the privacy policies of every third-party website or service that you visit or use, including those third parties you interact with through our services.
 
-For all Services, you grant Crew a worldwide, royalty-free, sublicensable, and transferable license to host, store, use, display, reproduce, modify, adapt, edit, publish, and distribute that content. This license is for the limited purpose of operating, developing, providing, promoting, and improving the Services and researching and developing new ones.
+How we store your information
+Storage and Processing:
+	Your information collected through the Service may be stored and processed in the United States or any other country in which Views, its Affiliates or Service Providers maintain facilities.
+	By registering for and using the Service you consent to the transfer of information to the U.S. or to any other country in which Views, its Affiliates or Service Providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+	We use commercially reasonable safeguards to help keep the information collected through the Service secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, Views cannot ensure the security of any information you transmit to Views or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed.
+Please do your part to help us. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to emails between you and Views, at all times. We are not responsible for the functionality, privacy, or security measures of any other organization.
 
-You also grant us a perpetual license to create derivative works from, promote, exhibit, broadcast, syndicate, publicly perform, and publicly display content submitted to any Services in any form and in any and all media or distribution methods (now known or later developed). To the extent it's necessary, you also grant Crew and our business partners the unrestricted, worldwide, perpetual right and license to use your name, likeness, and voice solely in Live, Local, or other crowd-sourced content that you appear in, create, upload, post, or send. This means, among other things, that you will not be entitled to any compensation from Crew or our business partners if your name, likeness, or voice is conveyed through any Services.
+You should understand that users who see the content you provide can always save it using any number of techniques: screenshots, in-app functionality, or any other image-capture technology. It’s also possible, as with any digital information, that someone might be able to access messages forensically or find them in a device’s temporary storage. We may also retain certain information in backup for a limited period of time or as required by law.
+Control over Your Information
+We want you to be in control of your information, so we provide you with the following tools.
+			Access and Updates. We strive to let you access and update most of the personal information that we have about you. There are limits though to the requests we’ll accommodate. We may reject a request for a number of reasons, including, for example, that the request risks the privacy of other users, requires technical efforts that are disproportionate to the request, is repetitive, or is unlawful. You can access and update most of your basic account information right in the app by visiting the app’s Settings page. If you need to access, update, or delete any other personal information that we may have, just contact us at contact@crewmoments.com. Because your privacy is important to us, we may ask you to verify your identity or provide additional information before we let you access or update your personal information. We will try to update and access your information for free, but if it would require a disproportionate effort on our part, we may charge a fee. We will of course disclose the fee before we comply with your request.
+			Revoking Permissions. If you change your mind about our ongoing ability to collect information from certain sources that you have already consented to, such as your phonebook, camera, photos, or location services, you can simply revoke your consent by changing the settings on your device if your device offers those options. Of course, if you do that, certain services may lose full functionality.
+			Account Deletion. While we hope you’ll remain a lifelong Views member, if for some reason you ever want to delete your account, just contact us at contact@crewmoments.com. If you ask to delete your account, you will have up to 30 days to restore your account before we delete your information from our servers. During this period of time, your account will not be visible to other Views members.
+	
+Analytics and Advertising Services Provided by Others
+We may let other companies use cookies, web beacons, and similar tracking technologies on the services. These companies may collect information about how you use the services and other websites and online services over time and across different services. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, and better understand your online activity.
 
-For more information about how to tailor who can watch your content, please take a look at our privacy policy.
+Additionally, some companies may use the information they collect on our services to deliver targeted advertisements on behalf of us or other companies, including on third-party websites and apps. Views does not currently respond to do-not-track signals that may be sent from your device. If we do so in the future, we will provide information about that practice in an updated version of this privacy policy. For more information about interest-based ads, including how to opt out of having your web-browsing information used for behavioral-advertising purposes, please visit www.aboutads.info/choices.
 
-While we're not required to do so, we may access, review, screen, and delete your content at any time and for any reason, in our sole discretion, including if we think your content violates these Terms. You alone though remain responsible for the content you create, upload, post, send, or store through the Service.
+Users Outside the United States
+Although we welcome Views members from all over the world, keep in mind that no matter where you live or where you happen to use our services, we operate our services from the United States. This means that we may collect your personal information from, transfer it to, and store and process it in the United States and other countries whose local data-protection and privacy laws may offer fewer protections than those in your country of residence or from any country where you use or access the services.
 
-The Services may contain advertisements. In consideration for Crew letting you access and use the Services, you agree that Crew, its affiliates, and third-party partners may place advertising on the Services.
 
-We always love to hear from our users. But if you volunteer feedback or suggestions, know that we can use your ideas without compensating you.
+Children
+Our services are not intended for—and we don’t direct them to—anyone under 13. And that’s why we do not knowingly collect personal information from anyone under 13.
 
-4. The Content of Others
-Much of the content on our Services is produced by users, publishers, and other third parties. Whether that content is posted publicly or privately, the content is the sole responsibility of the person or organization that submitted it. Although Crew reserves the right to review all content that appears on the Services and to remove any content that violates these Terms, we do not necessarily review all of it. So we cannot—and do not—take responsibility for any content that others provide through the Services.
+Revisions to the Privacy Policy
+We may change this privacy policy from time to time. When we do, we’ll let you know one way or another. Sometimes, we’ll let you know by revising the date at the top of the privacy policy that’s available on our website and mobile application. Other times, we may provide you with additional notice (such as adding a statement to our websites’ homepages or providing you with an in-app notification). Your continued use of Views or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
 
-Through these Terms, we make clear that we do not want the Services put to bad uses. But because we do not review all content, we cannot guarantee that content on the Services will always conform to our Terms or Guidelines.
-
-5. Privacy
-Your privacy matters to us. You can learn how we handle your information when you use our Services by reading our privacy policy. We strongly encourage you to give the privacy policy a careful look because, by using our Services, you agree that Crew can collect, use, and transfer your information consistent with that policy.
-
-6. Respecting Other People's Rights
-Crew respects the rights of others. And so should you. You therefore may not upload, post, send, or store content that:
-	•	violates or infringes someone else's rights of publicity, privacy, copyright, trademark, or other intellectual-property right;
-	•	bullies, harasses, or intimidates;
-	•	defames; or
-	•	spams or solicits Crew users.
-
-You must also respect Crews rights. These Terms do not grant you any right to:
-	•	use branding, logos, designs, photographs, videos, or any other materials used in our Services;
-	•	copy, archive, download, upload, distribute, syndicate, broadcast, perform, display, make available, or otherwise use any portion of the Services or the content on the Services except as set forth in these Terms;
-	•	use the Services or any content on the Services for any commercial purposes without our consent.
-
-In short: You may not use the Services or the content on the Services in ways that are not authorized by these Terms. Nor may you help or enable anyone else in doing so.
-
-7. Respecting Copyright
-Crew honors the requirements set forth in the Digital Millennium Copyright Act. We therefore take reasonable steps to expeditiously remove from our Services any infringing material that we become aware of. If Crew becomes aware that one of its users has repeatedly infringed copyrights, we will take reasonable steps within our power to terminate the user's account.
-
-If you believe that anything on the Services infringes a copyright that you own or control, you may file a notice with our designated agent:
-
-Ian Schwartz
-Park West Finance Station
-P.O. Box 20029
-New York, NY 10025
-Email: contact@crewmoments.com
-
-If you file a notice with our Copyright Agent, it must comply with the requirements set forth at 17 U.S.C. § 512(c)(3). That means the notice must:
-	•	contain the physical or electronic signature of a person authorized to act on behalf of the copyright owner;
-	•	identify the copyrighted work claimed to have been infringed;
-	•	identify the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed, or access to which is to be disabled, and information reasonably sufficient to let us locate the material;
-	•	provide your contact information, including your address, telephone number, and an email address;
-	•	provide a personal statement that you have a good-faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
-	•	provide a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
-	•	
-8. Safety
-We try hard to keep our Services a safe place for all users. By using the Services, you agree that:
-	•	You will not use the Services for any purpose that is illegal or prohibited in these Terms.
-	•	You will not use any robot, spider, crawler, scraper, or other automated means or interface to access the Services or extract other user's information.
-	•	You will not use or develop any third-party applications that interact with the Services or other users' content or information without our written consent.
-	•	You will not use the Services in a way that could interfere with, disrupt, negatively affect, or inhibit other users from fully enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Services.
-	•	You will not use or attempt to use another user's account, username, or password without their permission.
-	•	You will not solicit login credentials from another user.
-	•	You will not post content that contains pornography, graphic violence, threats, hate speech, or incitements to violence.
-	•	You will not upload viruses or other malicious code or otherwise compromise the security of the Services.
-	•	You will not attempt to circumvent any content-filtering techniques we employ, or attempt to access areas or features of the Services that you are not authorized to access.
-	•	You will not probe, scan, or test the vulnerability of our Services or any system or network.
-	•	You will not encourage or promote any activity that violates these Terms.
-
-We also care about your safety while using our Services. Do not use our Services in a way that would distract you from obeying traffic or safety laws. And never put yourself or others in harm's way just to capture or share a picture.
-
-9. Your Account
-You are responsible for any activity that occurs in your account. It's important that you keep your account secure. One way to do that is to select a strong password that you don't use for any other account.
-
-By using the Services, you agree that, in addition to exercising common sense:
-	•	You will not create more than one account for yourself.
-	•	You will not create another account if we have already disabled your account, unless you have our written permission to do so.
-	•	You will not buy, sell, rent, or lease access to your Crew account or Crew username without our written permission.
-	•	You will not share your password.
-	•	You will not log in or attempt to access the Services through unauthorized third-party applications or clients.
-	•	
-If you think that someone has gained access to your account, please immediately reach out to contact@crewmoments.com.
-
-10. Purchases and Payments
-We may offer various virtual goods and services ("Virtual Products") that you can purchase and use through the Services. You don't own these Virtual Products; instead you buy a limited revocable license to use them. You'll always be shown the price for Virtual Products before you complete a purchase. Crew does not handle payments or payment processing for any purchases; those are handled by third-party payment providers or service providers (such as, Apple's App Store and Google's Play Store, among others). Some third-party service providers may charge you sales tax, depending on where you live. Please check the third-party service provider's relevant terms for details.
-
-Subject to any applicable additional terms and conditions, all purchases are final and non-refundable. Because our performance begins once you tap buy and we give you immediate access to your purchase, you waive any right you may have under EU or other local law to cancel your purchase once it's completed or to get a refund. BY ACCEPTING THESE TERMS, YOU AGREE THAT CREW IS NOT REQUIRED TO PROVIDE A REFUND FOR ANY REASON.
-
-Some of the Virtual Products we offer are for one-time use only, while others are for repeated use. But please note that "repeated" does not mean "forever." We may change, modify, or eliminate Virtual Products at any time, with or without notice. You agree that we will bear no liability to you or any third party if we do so. If we suspend or terminate your account, you will lose any Products you purchased through the Services.
-
-It's your sole responsibility to manage your purchases. If you are under 18 (or younger than the age of legal majority in your place of residence), you must obtain your parent's or guardian's consent before making any purchases.
-Crew does not transmit any funds and is not a money-services business. To the extent such functionality is made available in the Services, it is provided by an unaffiliated third party, and like any other third-party service, subject to that third party's separate terms of use.
-
-11. Data Charges and Mobile Phones
-You are responsible for any mobile charges that you may incur for using our Services, including text-messaging and data charges. If you're unsure what those charges may be, you should ask your service provider before using the Services.
-
-If you change or deactivate the mobile phone number that you used to create a Crew account, you must update your account information through Settings within 72 hours to prevent us from sending to someone else messages intended for you.
-
-12. Third-Party Services
-If you use a service, feature, or functionality that is operated by a third party and made available through our Services (including Services we jointly offer with the third party), each party's terms will govern the respective party's relationship with you. Crew is not responsible or liable for those third party's terms or actions taken under the third party's terms.
-
-13. Modifying the Services and Termination
-We're always improving our Services and creating new ones all the time. That means we may add or remove features, products, or functionalities, and we may also suspend or stop the Services altogether. We may take any of these actions at any time, and when we do, we may not provide you with any notice beforehand.
-
-You can terminate these Terms at any time and for any reason by deleting your account.
-
-Crew may also terminate these Terms with you at any time, for any reason, at our sole discretion, and without advanced notice. That means that we may stop providing you with any Services, or impose new or additional limits on your ability to use the Services. For example, we may deactivate your account due to prolonged inactivity, and we may reclaim your username at any time for any reason.
-
-Regardless of who terminates these Terms, both you and Crew continue to be bound by Sections 3, 6, 10, 13-22 of the Terms.
-
-14. Indemnity
-You agree, to the extent permitted under applicable law, to indemnify, defend, and hold harmless Crew, our directors, officers, employees, and affiliates from and against any and all complaints, charges, claims, damages, losses, costs, liabilities, and expenses (including attorneys' fees) due to, arising out of, or relating in any way to: (a) your access to or use of the Services; (b) your content; and (c) your breach of these Terms.
-
-15. Disclaimers
-We try to keep the Services up and running and free of annoyances. But we make no promises that we will succeed.
-
-THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" AND TO THE EXTENT PERMITTED BY APPLICABLE LAW WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. IN ADDITION, WHILE CREW ATTEMPTS TO PROVIDE A GOOD USER EXPERIENCE, WE DO NOT REPRESENT OR WARRANT THAT: (A) THE SERVICES WILL ALWAYS BE SECURE, ERROR-FREE, OR TIMELY; (B) THE SERVICES WILL ALWAYS FUNCTION WITHOUT DELAYS, DISRUPTIONS, OR IMPERFECTIONS; OR (C) THAT ANY CREW CONTENT, USER CONTENT, OR INFORMATION YOU OBTAIN ON OR THROUGH THE SERVICES WILL BE TIMELY OR ACCURATE.
-CREW TAKES NO RESPONSIBILITY AND ASSUMES NO LIABILITY FOR ANY CONTENT THAT YOU, ANOTHER USER, OR A THIRD PARTY CREATES, UPLOADS, POSTS, SENDS, RECEIVES, OR STORES ON OR THROUGH OUR SERVICES. YOU UNDERSTAND AND AGREE THAT YOU MAY BE EXPOSED TO CONTENT THAT MIGHT BE OFFENSIVE, ILLEGAL, MISLEADING, OR OTHERWISE INAPPROPRIATE, NONE OF WHICH CREW WILL BE RESPONSIBLE FOR.
-
-16. Limitation of Liability
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, CREW AND OUR MANAGING MEMBERS, SHAREHOLDERS, EMPLOYEES, AFFILIATES, LICENSORS, AND SUPPLIERS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR MULTIPLE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM: (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES; (B) THE CONDUCT OR CONTENT OF OTHER USERS OR THIRD PARTIES ON OR THROUGH THE SERVICES; OR (C) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR CONTENT, EVEN IF CREW HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL CREW’S AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE SERVICES EXCEED THE GREATER OF $100 USD OR THE AMOUNT YOU PAID CREW, IF ANY, IN THE LAST 12 MONTHS.
-
-SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO SOME OR ALL OF THE EXCLUSIONS AND LIMITATIONS IN THIS SECTION MAY NOT APPLY TO YOU.
-
-17. Arbitration, Class Waiver, and Jury Waiver
-PLEASE READ THE FOLLOWING PARAGRAPHS CAREFULLY BECAUSE THEY REQUIRE YOU TO ARBITRATE DISPUTES WITH CREW, AND LIMIT THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US.
-	•	Applicability of Arbitration Agreement. All claims and disputes arising out of or relating to these Terms or the use of the Services that cannot be resolved in small claims court will be resolved by binding arbitration on an individual basis, except that you and CREW are not required to arbitrate any dispute in which either party seeks equitable relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents.
-	•	Arbitration Rules. The Federal Arbitration Act governs the interpretation and enforcement of this dispute-resolution provision. Arbitration will be initiated through the American Arbitration Association ("AAA"). If the AAA is not available to arbitrate, the parties will select an alternative arbitral forum. The rules of the arbitral forum will govern all aspects of this arbitration, except to the extent those rules conflict with these Terms. The AAA Consumer Arbitration Rules governing the arbitration are available online at www.adr.org or by calling the AAA at 1-800-778-7879. The arbitration will be conducted by a single neutral arbitrator. Any claims or disputes where the total amount sought is less than $10,000 USD may be resolved through binding non-appearance-based arbitration, at the option of the party seeking relief. For claims or disputes where the total amount sought is $10,000 USD or more, the right to a hearing will be determined by the arbitral forum's rules. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
-	•	Additional Rules for Non-appearance Arbitration. If non-appearance arbitration is elected, the arbitration will be conducted by telephone, online, written submissions, or any combination of the three; the specific manner will be chosen by the party initiating the arbitration. The arbitration will not involve any personal appearance by the parties or witnesses unless the parties mutually agree otherwise.
-	•	Authority of the Arbitrator. The arbitrator will decide the jurisdiction of the arbitrator and the rights and liabilities, if any, of you and Crew. The dispute will not be consolidated with any other matters or joined with any other cases or parties. The arbitrator will have the authority to grant motions dispositive of all or part of any claim or dispute. The arbitrator will have the authority to award monetary damages and to grant any non-monetary remedy or relief available to an individual under applicable law, the arbitral forum's rules, and the Terms. The arbitrator will issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded. The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have. The award of the arbitrator is final and binding upon you and Crew.
-	•	Waiver of Jury Trial. YOU AND CREW WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO GO TO COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. You and CREW are instead electing to have claims and disputes resolved by arbitration. Arbitration procedures are typically more limited, more efficient, and less costly than rules applicable in court and are subject to very limited review by a court. In any litigation between you and CREW over whether to vacate or enforce an arbitration award, YOU AND CREW WAIVE ALL RIGHTS TO A JURY TRIAL, and elect instead to have the dispute be resolved by a judge.
-	•	Waiver of Class or Consolidated Actions. ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED OR LITIGATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS BASIS. CLAIMS OF MORE THAN ONE CUSTOMER OR USER CANNOT BE ARBITRATED OR LITIGATED JOINTLY OR CONSOLIDATED WITH THOSE OF ANY OTHER CUSTOMER OR USER. If, however, this waiver of class or consolidated actions is deemed invalid or unenforceable, neither you nor we are entitled to arbitration; instead all claims and disputes will be resolved in a court as set forth in Section 18.
-	•	Confidentiality. No part of the procedures will be open to the public or the media. All evidence discovered or submitted at the hearing is confidential and may not be disclosed, except by written agreement of the parties, pursuant to court order, or unless required by law. Notwithstanding the foregoing, no party will be prevented from submitting to a court of law any information needed to enforce this arbitration agreement, to enforce an arbitration award, or to seek injunctive or equitable relief.
-	•	Right to Waive. Any rights and limitations set forth in this arbitration agreement may be waived by the party against whom the claim is asserted. Such waiver will not waive or affect any other portion of this arbitration agreement.
-	•	Opt-out. You may opt out of this arbitration agreement. If you do so, neither you nor Crew can force the other to arbitrate. To opt out, you must notify Crew in writing no later than 30 days after first becoming subject to this arbitration agreement. Your notice must include your name and address, your Crew username and the email address you used to set up your Crew account (if you have one), and an unequivocal statement that you want to opt-out of this arbitration agreement. You must send your opt-out notice to this address: Crew Media, Inc., ATTN: Arbitration Opt-out, Park West Finance Station P.O. Box 20029, New York  NY 10025.
-	•	Small Claims Court. Notwithstanding the foregoing, either you or Crew may bring an individual action in small claims court.
-	•	Arbitration Agreement Survival. This arbitration agreement will survive the termination of your relationship with Crew.
-
-18. Exclusive Venue
-To the extent the parties are permitted under these Terms to initiate litigation in a court, both you and Crew agree that all claims and disputes arising out of or relating to the Terms or the use of the Services will be litigated exclusively in a United States District Court of New York. 
-
-19. Choice of Law
-Except to the extent they are preempted by U.S. federal law, the laws of New York, other than its conflict-of-laws principles, govern these Terms and any disputes arising out of or relating to these Terms or their subject matter, including tort claims.
-
-20. Severability
-If any provision of these Terms is found unenforceable, then that provision will be severed from these Terms and not affect the validity and enforceability of any remaining provisions.
-
-21. Additional Terms for Specific Services
-Given the breadth of our Services, we sometimes need to craft additional terms and conditions for specific Services. Those additional terms and conditions, which will be available with the relevant Services, then become part of your agreement with us if you use those Services.
-
-22. Final Terms
-	•	These Terms make up the entire agreement between you and Crew, and supersede any prior agreements.
-	•	These Terms do no create or confer any third-party beneficiary rights.
-	•	If we do not enforce a provision in these Terms, it will not be considered a waiver.
-	•	We reserve all rights not expressly granted to you.
-	•	You may not transfer any of your rights or obligations under these Terms without our consent.
-	•	These Terms were written in English and to the extent the translated version of these Terms conflict with the English version, the English version will control.
-	•	
-Contact Us
-Crew welcomes comments, questions, concerns, or suggestions. Please send feedback at contact@crewmoments.com.
-
-Crew Media, Inc. address is Park West Finance Station P.O. Box 20029, New York, NY 10025
