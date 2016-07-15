@@ -66,7 +66,7 @@ Crew respects the rights of others. And so should you. You therefore may not upl
 
 •	defames; or
 
-•	spams or solicits Crew users.
+•	spams or solicits Views users.
 
 You must also respect Crews rights. These Terms do not grant you any right to:
 
@@ -141,7 +141,7 @@ By using the Services, you agree that, in addition to exercising common sense:
 
 •	You will not create another account if we have already disabled your account, unless you have our written permission to do so.
 
-•	You will not buy, sell, rent, or lease access to your Crew account or Crew username without our written permission.
+•	You will not buy, sell, rent, or lease access to your Views account or Views username without our written permission.
 
 •	You will not share your password.
 
@@ -176,7 +176,7 @@ We're always improving our Services and creating new ones all the time. That mea
 
 You can terminate these Terms at any time and for any reason by deleting your account.
 
-Crew may also terminate these Terms with you at any time, for any reason, at our sole discretion, and without advanced notice. That means that we may stop providing you with any Services, or impose new or additional limits on your ability to use the Services. For example, we may deactivate your account due to prolonged inactivity, and we may reclaim your username at any time for any reason.
+Views may also terminate these Terms with you at any time, for any reason, at our sole discretion, and without advanced notice. That means that we may stop providing you with any Services, or impose new or additional limits on your ability to use the Services. For example, we may deactivate your account due to prolonged inactivity, and we may reclaim your username at any time for any reason.
 
 Regardless of who terminates these Terms, both you and Crew continue to be bound by Sections 3, 6, 10, 13-22 of the Terms.
 
