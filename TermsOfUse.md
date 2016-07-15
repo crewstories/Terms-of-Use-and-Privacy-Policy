@@ -20,7 +20,7 @@ By using the Services, you state that:
 
 •You will comply with these Terms and all applicable local, state, national, and international laws, rules, and regulations.
 
-If you are using the Services on behalf of a business or some other entity, you state that you are authorized to grant all licenses set forth in these Terms and to agree to these Terms on behalf of the business or entity. 
+If you are using the Services on behalf of a business or some other entity, you state that you are authorized to grant all licenses set forth in these Terms and to agree to these Terms on behalf of the business or entity.
 
 2. Rights We Grant You
 
