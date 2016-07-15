@@ -158,19 +158,19 @@ How We Store your Information
 
 Storage and Processing:
 	
-	Your information collected through the Service may be stored and processed in
-	the United States or any other country in which Views, its Affiliates or Service
-	Providers maintain facilities.
+Your information collected through the Service may be stored and processed in
+the United States or any other country in which Views, its Affiliates or Service
+Providers maintain facilities.
 	
-	By registering for and using the Service you consent to the transfer of
+By registering for and using the Service you consent to the transfer of
 information to the U.S. or to any other country in which Views, its Affiliates or Service Providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
-	
-	We use commercially reasonable safeguards to help keep the information
-	collected through the Service secure and take reasonable steps (such as
-	requesting a unique password) to verify your identity before granting you access
-	to your account. However, Views cannot ensure the security of any
-	information you transmit to Views or guarantee that information on the
-	Service may not be accessed, disclosed, altered, or destroyed.
+
+We use commercially reasonable safeguards to help keep the information
+collected through the Service secure and take reasonable steps (such as
+requesting a unique password) to verify your identity before granting you access
+to your account. However, Views cannot ensure the security of any
+information you transmit to Views or guarantee that information on the
+Service may not be accessed, disclosed, altered, or destroyed.
 
 Please do your part to help us. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to emails between you and Views, at all times. We are not responsible for the functionality, privacy, or security measures of any other organization.
 
@@ -179,12 +179,12 @@ Control over Your Information
 
 We want you to be in control of your information, so we provide you with the following tools.
 			
-	Access and Updates. We strive to let you access and update most of the
+Access and Updates. We strive to let you access and update most of the
 personal information that we have about you. There are limits though to the requests we’ll accommodate. We may reject a request for a number of reasons, including, for example, that the request risks the privacy of other users, requires technical efforts that are disproportionate to the request, is repetitive, or is unlawful. You can access and update most of your basic account information right visiting the app’s Settings page. If you need to access, update, or delete any other personal information that we may have, just contact us at contact@theviewsapp.com. Because your privacy is important to us, we may ask you to verify your identity or provide additional information before we let you access or update your personal information. We will try to update and access your information for free, but if it would require a disproportionate effort on our part, we may charge a fee. We will of course disclose the fee before we comply with your request.
 			
 Revoking Permissions. If you change your mind about our ongoing ability to collect information from certain sources that you have already consented to, such as your phonebook, camera, photos, or location services, you can simply revoke your consent by changing the settings on your device if your device offers those options. Of course, if you do that, certain services may lose full functionality.
 	
-	Account Deletion. While we hope you’ll remain a lifelong Views member, if for 
+Account Deletion. While we hope you’ll remain a lifelong Views member, if for 
 some reason you ever want to delete your account, just contact us at contact@theviewsapp.com. If you ask to delete your account, you will have up to 30 days to restore your account before we delete your information from our servers. During this period of time, your account will not be visible to other Views members.
 	
 Analytics and Advertising Services Provided by Others
