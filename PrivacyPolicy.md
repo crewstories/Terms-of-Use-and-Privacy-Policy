@@ -10,13 +10,13 @@ By using our Service you understand and agree that we are providing a platform f
 
 When you use views services, you’ll inevitably share some information with us. That’s why we’ve written this privacy policy. This policy covers the information we collect, how we use it, whom we share it with, and the choices we give you to control, access, and update your information. If you still have questions about anything in our privacy policy, please contact us at contact@theviewsapp.com.
 
-	Information We Collect
-
 There are three basic ways we collect information:
 
-•	Information you choose to give us.
-•	Information we get when you use our services.
-•	Information we get from third parties.
+• Information you choose to give us.
+
+• Information we get when you use our services.
+
+• Information we get from third parties.
 
 Here’s a little more detail on each of these categories.
 
@@ -31,51 +31,52 @@ When you contact Views Support or communicate with us in any other way, we’ll 
 Information We Get When You Use Our Services
 
 When you use our services, we collect information about which of those services you’ve used and how you’ve used them. Here’s a fuller explanation of the types of information we collect when you use our services:
-•	
+	
 •	Usage Information. We collect information about your activity through our 
 services. For example, we may collect information about:
 			
-o	how you interact with the services or which search queries you submit.
+•	how you interact with the services or which search queries you submit.
 		
-o	how you communicate with other views members, such as their names, the time and date of your communications, the number of photos and videos you exchange with your friends, which friends you exchange photos and videos with the most, and your interactions with photos and videos (such as when you open a message or capture a screenshot).
+• how you communicate with other views members, such as their names, the time and date of your communications, the number of photos and videos you exchange with your friends, which friends you exchange photos and videos with the most, and your interactions with photos and videos (such as when you open a message or capture a screenshot).
 
-•	Content Information. We collect information about the content you provide, 
+• Content Information. We collect information about the content you provide, 
 such as if the recipient has viewed the content, replayed the content, and the metadata that is provided with the content.
 
-•	Device Information. We collect device-specific information, such as the
+• Device Information. We collect device-specific information, such as the
 hardware model, operating system version, advertising identifier, unique application identifiers, unique device identifiers, browser type, language, wireless network, and mobile network information (including the mobile phone number).
 
-•	Device Phonebook. Because Views is all about communicating with friends,
+• Device Phonebook. Because Views is all about communicating with friends,
 We may—with your consent—collect information from your device’s phonebook.
 
-•	Camera and Photos. Many of our services require us to collect images and 
+• Camera and Photos. Many of our services require us to collect images and 
 other information from your device’s camera and photos. We’ll access your camera and photos only after you give us your consent.
 
-•	Location Information. When you use our services we may collect information
+• Location Information. When you use our services we may collect information
 about your location. With your consent, we may also collect information about your precise location using methods that include GPS, wireless networks, cell
 towers, Wi-Fi access points, and other sensors, such as gyroscopes, accelerometers, and compasses.
 
-•	Information Collected by Cookies and Other Technologies. Like most online
+• Information Collected by Cookies and Other Technologies. Like most online
 services and mobile applications, we may use cookies and other technologies, such as web beacons, web storage, and unique advertising identifiers, to collect information about your activity, browser, and device. We may also use these technologies to collect information when you interact with services we offer through one of our partners, such as commerce features. Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our services. 
 
-•	Log Information. We also collect log information when you use our website.
+• Log Information. We also collect log information when you use our website.
+
 That information includes, among other things:
 			
-o	details about how you’ve used our services
+• details about how you’ve used our services
 
-o	device information, such as your web browser type and language	
+• device information, such as your web browser type and language	
 
-o	access times
+• access times
 
-o	pages viewed
+• pages viewed
 
-o	IP address
+• IP address
 
-o	identifiers associated with cookies or other technologies that may uniquely
+• identifiers associated with cookies or other technologies that may uniquely
 
-o	identify your device or browser
+• identify your device or browser
 
-o	pages you visited before or after navigating to our website.
+• pages you visited before or after navigating to our website.
 	
 Information We Collect from Third Parties
 
