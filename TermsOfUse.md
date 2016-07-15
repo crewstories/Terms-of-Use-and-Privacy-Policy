@@ -14,9 +14,11 @@ No one under 13 is allowed to create an account or use the Services. We may offe
 
 By using the Services, you state that:
 
-•	You can form a binding contract with Crew Media Inc.;
-•	You are not a person who is barred from receiving the Services under the laws of the United States or any other applicable jurisdiction–meaning that you do not appear on the U.S. Treasury Department's list of Specially Designated Nationals or face any other similar prohibition; and
-•	You will comply with these Terms and all applicable local, state, national, and international laws, rules, and regulations.
+•You can form a binding contract with Crew Media Inc.;
+
+•You are not a person who is barred from receiving the Services under the laws of the United States or any other applicable jurisdiction–meaning that you do not appear on the U.S. Treasury Department's list of Specially Designated Nationals or face any other similar prohibition; and
+
+•You will comply with these Terms and all applicable local, state, national, and international laws, rules, and regulations.
 
 If you are using the Services on behalf of a business or some other entity, you state that you are authorized to grant all licenses set forth in these Terms and to agree to these Terms on behalf of the business or entity. 
 
