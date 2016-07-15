@@ -8,7 +8,7 @@ We will refer to all of our products and services as the "Services”.
 
 By using the Services, you agree to the Terms. If you do not agree with the Terms, then do not use the Services.
 
-1. Who Can Use the Services
+(1) Who Can Use the Services
 
 No one under 13 is allowed to create an account or use the Services. We may offer additional Services with additional terms that may require you to be even older to use them. 
 
@@ -22,7 +22,7 @@ By using the Services, you state that:
 
 If you are using the Services on behalf of a business or some other entity, you state that you are authorized to grant all licenses set forth in these Terms and to agree to these Terms on behalf of the business or entity.
 
-2. Rights We Grant You
+(2) Rights We Grant You
 
 Crew Media Inc. grants you a personal, worldwide, royalty-free, non-assignable, nonexclusive, revocable, and non-sublicensable license to access and use the Services. This license is for the sole purpose of letting you use and enjoy the Service's benefits in a way that these Terms and our usage policies allow.
 
