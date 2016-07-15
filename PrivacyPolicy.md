@@ -10,6 +10,9 @@ By using our Service you understand and agree that we are providing a platform f
 
 When you use views services, you’ll inevitably share some information with us. That’s why we’ve written this privacy policy. This policy covers the information we collect, how we use it, whom we share it with, and the choices we give you to control, access, and update your information. If you still have questions about anything in our privacy policy, please contact us at contact@theviewsapp.com.
 
+
+Information We Collect
+
 There are three basic ways we collect information:
 
 • Information you choose to give us.
