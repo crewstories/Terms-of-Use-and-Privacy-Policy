@@ -1,10 +1,10 @@
 Privacy Policy
 
-Last Modified: July 15th, 2016
+Last Modified: July 18th, 2016
 
 Welcome to the Views App! ("Views," "we," "us" or "our"). Views provides a fast, simple way to create photo & video albums with a group of people. 
 
-Below is our privacy policy that governs your use of the Views (collectively, the “Service”) for mobile devices that was created by Crew Media, Inc.
+Below is our privacy policy that governs your use of the Views (collectively, the “Service”) for mobile devices which is owned and operated by Crew Media, Inc (“Crew”).
 
 By using our Service you understand and agree that we are providing a platform for you to post content, including photos, videos and other materials ("User Content"), to the Service and to share User Content with others who access the Service ("Users").
 
