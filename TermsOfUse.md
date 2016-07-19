@@ -2,7 +2,11 @@ Terms of Service
 
 Effective: July 18th, 2016
 
-These Terms of Service ("Terms") govern our relationship with you. Although we have tried our best to strip the “legalese” from the Terms, there are places where these Terms may still read like a traditional contract. This is because these Terms do indeed form a legally binding contract between you and Views, which is owned and operated by Crew Media, Inc (“Crew”). These terms govern your access to and use of the Views services (“Services”), including our Views mobile applications (“Views”), our websites and social channels, including the website located at theviewsapp.com (collectively the “Services” or “Views”), and any photos, videos, information, text, graphics, photos or other materials uploaded, downloaded or appearing on the Services (collectively referred to as “Content”). Your access to and use of the Services is conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.
+These Terms of Service ("Terms") govern our relationship with you. Although we have tried our best to strip the “legalese” from the Terms, there are places where these Terms may still read like a traditional contract. This is because these Terms do indeed form a legally binding contract between you and Views, which is owned and operated by Crew Media, Inc (“Crew”). 
+
+These terms govern your access to and use of the Views services (“Services”), including our Views mobile applications (“Views”), our websites, including the website located at theviewsapp.com (collectively the “Services” or “Views”), and any photos, videos, information, text, graphics, photos or other materials uploaded, downloaded or appearing on the Services (collectively referred to as “Content”). 
+
+Your access to and use of the Services is conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.
 
 Please read the Terms carefully.
 
@@ -12,8 +16,9 @@ By using the Services, you agree to the Terms. If you do not agree with the Term
 
 (1) Who Can Use the Services
 
-No one under 13 is allowed to create an account or use the Services. We may offer additional Services with additional terms that may require you to be even older to use them. If you are
-under 18 years of age, you should review the Terms with your parent or guardian and ensure that you both understand it.
+No one under 13 is allowed to create an account or use the Services. We may offer additional Services with additional terms that may require you to be even older to use them. 
+
+If you are under 18 years of age, you should review the Terms with your parent or guardian and ensure that you both understand it.
 
 By using the Services, you state that:
 
@@ -24,9 +29,13 @@ By using the Services, you state that:
 •You will comply with these Terms and all applicable local, state, national, and international laws, rules, and regulations.
 If you are using the Services on behalf of a business or some other entity, you state that you are authorized to grant all licenses set forth in these Terms and to agree to these Terms on behalf of the business or entity.
 
-(2) Basic Terms
+(2) General Conditions
 
 You are responsible for your use of the Services, for any Content you post to the Services, and for any consequences thereof. The Content you submit, post, or display will be able to be viewed by other users of the Services and through third party services and websites. You should only provide Content that you are comfortable sharing with others under these Terms.
+
+You represent and warrant that: (i) you own the Content posted by you on or through the Service or otherwise have the right to grant the rights and licenses set forth in these Terms of Use; (ii) the posting and use of your Content on or through the Service does not violate, misappropriate or infringe on the rights of any third party, including, without limitation, privacy rights, publicity rights, copyrights, trademark and/or other intellectual property rights; (iii) you agree to pay for all royalties, fees, and any other monies owed by reason of Content you post on or through the Service; and (iv) you have the legal right and capacity to enter into these Terms of Use in your jurisdiction.
+
+You are solely responsible for your interaction with other users of the Service, whether online or offline. You agree that Views is not responsible or liable for the conduct of any user. Views reserves the right, but has no obligation, to monitor or become involved in disputes between you and other users. Exercise common sense and your best judgment when interacting with others, including when you submit or post Content or any personal or other information.
 
 The Services that Views provides are always evolving and the form and nature of the Services may change from time to time without prior notice to you. In addition, Views may stop (permanently or temporarily) providing the Services (or any features within the Services) to you or to users generally and may not be able to provide you with prior notice. We also retain the right to create limits on use and storage at our sole discretion at any time without prior notice to you.
 
@@ -38,17 +47,17 @@ Also, as part of providing you the Services, we may need to provide you with cer
 
 (4) Your Account 
 
-You are responsible for safeguarding the password or credentials that you use to access the Services and for any activities or actions under your account. We encourage you to use “strong” passwords (passwords that use a combination of upper and lower case letters, numbers and symbols) with your account. Views cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.
+You are responsible for any activity that occurs in your account. Therefore, it’s important that you keep your account secure.
 
-You are responsible for any activity that occurs in your account. It's important that you keep your account secure. One way to do that is to select a strong password that you don't use for any other account.
-By using the Services, you agree that, in addition to exercising common sense:
+This means being responsible and safeguarding the password or credentials that you use to access the Services and for any activities or actions under your account. We encourage you to use “strong” passwords (passwords that use a combination of upper and lower case letters, numbers and symbols) with your account. Views cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.
+
+By using the Services, you agree that:
 
 • You will not create more than one account for yourself.
 
 • You will not create another account if we have already disabled your account, unless you have our written permission to do so.
 
 • You will not buy, sell, rent, or lease access to your Views account or Views username without our written permission.
-
 • You will not share your password.
 
 • You will not log in or attempt to access the Services through unauthorized third-party applications or clients.
@@ -65,8 +74,6 @@ Any software that we provide you may automatically download and install upgrades
 
 All Content, whether publicly posted or privately transmitted, is the sole responsibility of the person who originated such Content. We may, but are not required to monitor or control the Content posted via the Services and we cannot take responsibility for such Content. Any use or reliance on any Content or materials posted via the Services or obtained by you through the Services is at your own risk.
 
-You agree not to post User Content that: (1) may create a risk of harm, loss, physical or mental injury, emotional distress, death, disability, disfigurement, or physical or mental illness to you, to any other person, or to any animal; (2) may create a risk of any other loss or damage to any person or property
-
 We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services. You understand that by using the Services, you may be exposed to Content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, postings that have been mislabeled or are otherwise deceptive. Under no circumstances will Views be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of any Content posted, emailed, transmitted or otherwise made available via the Services or broadcast elsewhere.
 
 We may offer you the opportunity to invite your friends or contacts to view your content or otherwise enjoy the Services. If you choose to invite one or more of your friends or contacts using text messaging (SMS), we may suggest content for the message. You may be able to edit that suggested content, and if you choose to send text message invitations, those messages will be sent from the native SMS application on your device. If you do choose to send such invitations, you represent to Views that the recipients of such invitations have consented to receive such messages from you, and that those recipients do not consider such messages unwanted or unsolicited.
@@ -80,9 +87,11 @@ Through these Terms, we make clear that we do not want the Services put to bad u
 
 (8) Rights in Content Granted to Views
 
-By posting any User Content on the Service, you grant Views a worldwide, royalty-free, sublicensable, and transferable license to host, store, use, display, reproduce, modify, adapt, edit, publish, and distribute that content. This license is for the limited purpose of operating, developing, providing, promoting, and improving the Services and researching and developing new ones.
+You retain your rights to any Content you submit, post or display on or through the Services. In order to make the Services available to you and other users, Views needs a license from you. By submitting, posting or displaying Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such Content in any and all media or distribution methods (now known or later developed).
 
 While we're not required to do so, we may access, review, screen, and delete your content at any time and for any reason, in our sole discretion, including if we think your content violates these Terms. You alone though remain responsible for the content you create, upload, post, send, or store through the Service.
+
+If you volunteer feedback or suggestions, just know that we can use your ideas without compensating you.
 
 (9) Restrictions On Content And Use Of The Services
 
@@ -92,7 +101,8 @@ You may NOT post Content that:
 
 (1) may create a risk of harm, loss, physical or mental injury, emotional distress, death, disability, disfigurement, or physical or mental illness to you, to any other person, or to any animal; (2) may create a risk of any other loss or damage to any person or property; (3) seeks to harm or exploit children by exposing them to inappropriate content, asking for personally identifiable details or otherwise; (4) may constitute or contribute to a crime or tort; (5) 
 contains any information or content that we deem to be unlawful, harmful, abusive, racially or ethnically offensive, defamatory, infringing, invasive of personal privacy or publicity rights, harassing, humiliating to other people (publicly or otherwise), libelous, threatening, profane, or otherwise objectionable; (6) contains any information or content that is illegal (including, without limitation, the disclosure of insider information under securities law or of another party’s trade secrets); (7) contains any information or content that you do not have a right to make available under any law or under contractual or fiduciary relationships; or (8) contains any information or content that you know is not correct and current. 
-(10) Respecting Copy Rights
+
+(10) Respecting Copyright 
 
 Views respects the requirements set forth in the Digital Millennium Copyright Act. We therefore take reasonable steps to expeditiously remove from our Services any infringing material that we become aware of. If Views becomes aware that one of its users has repeatedly infringed copyrights, we will take reasonable steps within our power to terminate the user's account.
 
@@ -112,7 +122,7 @@ If you file a notice with our Copyright Agent, it must comply with the requireme
 
 • provide a personal statement that you have a good-faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
 
-• provide a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
+provide a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
 
 (11) Safety
 
@@ -144,9 +154,9 @@ We also care about your safety while using our Services. Do not use our Services
 
 (12) Intellectual Property Rights
 
-Except for your User Content, the Service and all materials therein or transferred thereby, including, without limitation, software, images, text, graphics, illustrations, logos, patents, trademarks, service marks, designs, scripts, copyrights, photographs, videos, trade dress are are exclusive intellectual property and trade dress owned by Crew Media Inc. 
+The Views name is a registered trademark of Crew Media Inc., and may not be copied, imitated or used, in whole or in part, without the prior written permission of Views. In addition, all page headers, custom graphics, button icons and scripts are service marks, trademarks and/or trade dress of Views, and may not be copied, imitated or used, in whole or in part, without prior written permission from Views.
 
-Views registered trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Crew Media Inc. 
+Except for your User Content, the Service and all materials therein or transferred thereby, including, without limitation, software, images, text, graphics, illustrations, logos, patents, trademarks, service marks, designs, scripts, copyrights, photographs, videos, trade dress are are exclusive intellectual property and trade dress owned by Crew Media Inc. 
 
 You may not copy, modify, distribute, sell, or lease any part of our Services, nor may you reverse engineer or attempt to extract the source code of that software, unless applicable laws prohibit these restrictions or you have our written permission to do so.
 
@@ -155,6 +165,7 @@ You may not copy, archive, download, upload, distribute, syndicate, broadcast, p
 (13) Data Charges and Mobile Phones
 
 You are responsible for any mobile charges that you may incur for using our Services, including text-messaging and data charges. If you're unsure what those charges may be, you should ask your service provider before using the Services.
+
 If you change or deactivate the mobile phone number that you used to create a Views account, you must update your account information through Settings within 72 hours to prevent us from 
 sending to someone else messages intended for you.
 
@@ -235,7 +246,7 @@ If any provision of these Terms is found unenforceable, then that provision will
 
 • These Terms were written in English and to the extent the translated version of these Terms conflict with the English version, the English version will control.
 
-(25) Contact Us
+Contact Us
 
 Views welcomes comments, questions, concerns, or suggestions. 
 
